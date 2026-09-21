@@ -111,7 +111,7 @@ example_com_scan_20260921_181500.md
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Cabal-Link-Thief.git
+git clone https://github.com/OSINTCabal/Cabal-Link-Thief.git
 cd Cabal-Link-Thief
 python3 -m venv .venv
 source .venv/bin/activate
